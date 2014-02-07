@@ -1,7 +1,7 @@
 #!/bin/bash
 
 name="VELOCE"
-version="v0.0.0"
+version="v0.0.1"
 
 echo
 echo -e "\033[33;36m $name \033[33;34m $version \033[0m"
