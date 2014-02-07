@@ -1,0 +1,7 @@
+ack
+wget
+watch
+git
+node
+brew-desc
+brew-cask
