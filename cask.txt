@@ -25,3 +25,4 @@ teamviewer
 the-unarchiver
 vlc
 vox
+xbox360-controller-driver
