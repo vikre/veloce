@@ -26,3 +26,6 @@ the-unarchiver
 vlc
 vox
 xbox360-controller-driver
+flowdock
+hipchat
+android-studio
