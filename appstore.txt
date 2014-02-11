@@ -1,6 +1,0 @@
-- bettersnaptool
-- prepo
-- reeder
-- seasonpass
-- sip
-- skuptunes

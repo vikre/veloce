@@ -1,8 +1,4 @@
 #!/usr/bin/ruby
-
-require 'fileutils' #I know, no underscore is not ruby-like
-include FileUtils
-
 name = String.new("VELOCE")
 version = String.new("v0.0.1")
 
@@ -25,6 +21,7 @@ end
 f.close
 
 # PRINT out what is installed
+puts "==> Bottles Installed"
 system "brew list"
 
 #----------------------- HomeBrewing -----------------------
@@ -38,7 +35,8 @@ end
 f.close
 
 # Alfred Integration
-system "brew cask alfred"
+system "brew cask alfred link"
 
 # PRINT out what is installed
+puts "==> Casks Installed"
 system "brew cask list"
