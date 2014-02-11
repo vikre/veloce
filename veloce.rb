@@ -8,7 +8,7 @@ puts name + " " + version
 puts " "
 puts "==> Installing HomeBrew"
 puts " "
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+system "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
 
 #----------------------- HomeBrewing -----------------------
 puts " "
