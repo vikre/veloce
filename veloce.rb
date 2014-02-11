@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 name = String.new("VELOCE")
-version = String.new("v0.0.1")
+version = String.new("v0.1.0")
 
 puts name + " " + version
 
