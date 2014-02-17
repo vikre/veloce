@@ -4,12 +4,6 @@ version = String.new("v0.1.0")
 
 puts name + " " + version
 
-#----------------------- HomeBrew -----------------------
-puts " "
-puts "==> Installing HomeBrew"
-puts " "
-system "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
-
 #----------------------- HomeBrewing -----------------------
 puts " "
 puts "==> Installing HomeBrew"
