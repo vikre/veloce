@@ -1,11 +1,8 @@
 alfred
 google-chrome
 intellij-idea-community
-skype
 spotify
 sublime
 vlc
-hipchat
-calibre
-iterm2
 zsh
+slack
